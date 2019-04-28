@@ -1,0 +1,12 @@
+If you are able to answer these questions, it would really help me figure out how to think about this opportunity. Thanks for reaching out.
+
+1. What is the team like? Number, composition, specialties? Do they do pull requests or push to master, what are their favorite conferences, is there an on call rotation? :)
+
+2. Would I be the only woman developer on the team?
+
+3. What is your parental leave policy?
+
+4. Does the company offer trans healthcare? How do you stack up against the https://www.hrc.org/hei/hei-scoring-criteria checklist?
+
+5. What is your policy/approach/guidelines on contributing back to open source software projects?
+
